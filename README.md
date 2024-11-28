@@ -176,7 +176,7 @@ O **Portal de Transparência** tem como objetivo desenvolver uma plataforma para
 ###  Contribuições Pessoais  
 
 
-Nesse projeto, contribuí desde a modelagem do banco de dados até a criação de funcionalidades como upload, exportação de arquivos e desenvolvimento do dashboard, entre outras. A experiência de trabalhar com uma nova equipe e lidar com prazos apertados aprimorou minha capacidade de gerenciar expectativas e me adaptar rapidamente a mudanças nos requisitos.
+Neste projeto, estive envolvida em várias etapas, desde a modelagem do banco de dados até a criação de funcionalidades como o upload de arquivos, exportação de dados e o desenvolvimento do dashboard. Também tive a oportunidade de ajudar na integração entre o front-end e o back-end, colaborando ativamente para corrigir erros e melhorar a comunicação entre as diferentes camadas do sistema. A troca de ideias e o trabalho em equipe foram essenciais para superar os desafios e garantir que o sistema funcionasse de forma eficiente.
 
 ---
 
