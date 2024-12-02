@@ -43,12 +43,9 @@ Sou estudante do 3° semestre de **Desenvolvimento de Software Multiplataforma**
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=450920"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white&color=450920"/>
 </div>
 
 ##  Meus Projetos :
@@ -94,7 +91,7 @@ No projeto, criei e organizei o banco de dados para garantir informações clara
 ---
 
 ###  Soft Skills Desenvolvidas
-Com o projeto, pude aprimorar minhas habilidades de comunicação e trabalho em equipe. Além disso, por ser um tema delicado, desenvolvi mais empatia e sensibilidade ao lidar com as informações e as necessidades dos usuários.
+Com o projeto, pude aprimorar minhas habilidades de comunicação e trabalho em equipe. Por se tratar de um tema delicado, desenvolvi ainda mais empatia e sensibilidade ao lidar com as informações e as necessidades dos usuários. No início do projeto, precisei me adaptar a uma nova equipe, o que contribuiu significativamente para o desenvolvimento da minha capacidade de adaptação em uma nova dinâmica de trabalho.
 
 ---
 
@@ -190,5 +187,6 @@ Neste projeto, estive envolvida em várias etapas, desde a modelagem do banco de
 ---
 
 ###  Soft Skills Desenvolvidas
-Durante o projeto, desenvolvi habilidades como colaboração em equipe, a gerenciar meu tempo de forma eficiente e a me adaptar rapidamente às mudanças. Melhorei minha comunicação, alinhando expectativas com a equipe, e também me tornei mais resiliente ao enfrentar os desafios que surgiram. A experiência também me ajudou a aprender novas tecnologias e a continuar evoluindo profissionalmente.
+Durante o projeto, desenvolvi habilidades como colaboração em equipe, a gerenciar meu tempo de forma eficiente e a me adaptar rapidamente às mudanças. Melhorei minha comunicação, alinhando expectativas com a equipe, e também me tornei mais resiliente ao enfrentar os desafios que surgiram. Além disso, a experiência me proporcionou a oportunidade de aprender novas tecnologias, contribuindo para minha evolução profissional.
+Houve uma reorganização dos grupos na sala, e com essa mudança, a equipe da qual passei a fazer parte recebeu novos membros. Essa transição me permitiu aprimorar ainda mais minhas habilidades de integração e acolhimento, fortalecendo o trabalho coletivo.
 
