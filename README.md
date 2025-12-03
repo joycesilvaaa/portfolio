@@ -190,3 +190,95 @@ Neste projeto, estive envolvida em várias etapas, desde a modelagem do banco de
 Durante o projeto, desenvolvi habilidades como colaboração em equipe, a gerenciar meu tempo de forma eficiente e a me adaptar rapidamente às mudanças. Melhorei minha comunicação, alinhando expectativas com a equipe, e também me tornei mais resiliente ao enfrentar os desafios que surgiram. Além disso, a experiência me proporcionou a oportunidade de aprender novas tecnologias, contribuindo para minha evolução profissional.
 Houve uma reorganização dos grupos na sala, e com essa mudança, a equipe da qual passei a fazer parte recebeu novos membros. Essa transição me permitiu aprimorar ainda mais minhas habilidades de integração e acolhimento, fortalecendo o trabalho coletivo.
 
+
+### 4º Semestre • 2/2024 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.1)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70342693-ebb4-4817-aae0-7fe079e80420" alt="Logo Post Help" width="30%">
+</p>
+
+
+Desenvolvemos um **sistema de monitoramento** para estações climáticas, permitindo a coleta e análise de dados em tempo real. O sistema foi projetado para ser escalável e fácil de integrar com outras plataformas.
+
+---
+
+###  Empresa Parceira  
+**Cliente Externo:** <a href="https://tecsus.com.br/">TecSus</a></p> 
+
+---
+
+###  Tecnologias Utilizadas  
+- **Linguagens:** TypeScript, Python  
+- **Frameworks e Ferramentas:** FastApi
+- **Banco de Dados:** Postgres
+- **Colaboração:** Jira, Microsoft Teams  
+
+---
+
+###  Contribuições Pessoais  
+
+
+Nesse projeto, atuei como Scrum Master, garantindo o bom andamento das entregas, facilitando a comunicação entre o time e ajudando a remover impedimentos. Também cuidei da organização do fluxo de trabalho, acompanhei métricas e incentivei práticas ágeis para manter o time alinhado e produtivo.
+
+---
+
+###  Hard Skills Desenvolvidas
+
+- FastApi - Consigo realizar com autonomia
+- Python - Consigo realizar com autonomia
+- React - Consigo realizar com autonomia
+- PostgresSql - Consigo realizar com autonomia
+
+---
+
+###  Soft Skills Desenvolvidas
+Durante essa atuação, desenvolvi diversas soft skills essenciais para a dinâmica do time, como comunicação clara e assertiva, liderança colaborativa e a capacidade de resolver conflitos de maneira construtiva. Também aprimorei minha organização e gestão de tempo, além da adaptabilidade para ajustar processos conforme as necessidades do projeto. Mantive um pensamento crítico constante para analisar impedimentos e métricas, pratiquei escuta ativa para entender o time e conduzi reuniões com foco e objetividade. Além disso, a empatia e a proatividade foram fundamentais para criar um ambiente de trabalho saudável e antecipar possíveis problemas antes que impactassem as entregas.
+
+
+
+### 5º Semestre • 2/2024 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.2)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70342693-ebb4-4817-aae0-7fe079e80420" alt="Logo Post Help" width="30%">
+</p>
+
+Projeto acadêmico desenvolvido por alunos do 5º semestre de DSM. O objetivo é digitalizar e automatizar a gestão de almoxarifado, substituindo controles manuais e descentralizados que dificultam o rastreamento de itens e impactam a eficiência operacional.
+
+---
+
+###  Empresa Parceira  
+**Cliente Externo:** <a href="https://www.eb.mil.br/">Guarnição de Caçapava</a></p> 
+
+---
+
+###  Tecnologias Utilizadas  
+- **Linguagens:** Dart, Java, Python
+- **Frameworks e Ferramentas:** FastApi, Spring Boot
+- **Banco de Dados:** Postgres
+- **Colaboração:** Jira, Microsoft Teams  
+
+---
+
+###  Contribuições Pessoais  
+
+
+Nesse projeto, tive a oportunidade de contribuir ativamente no desenvolvimento de diversas tasks, atuando tanto na parte mobile quanto no backend. Trabalhei na implementação de funcionalidades, correção de bugs e integração entre as camadas, sempre buscando entregar soluções eficientes e bem estruturadas. Essa experiência me deu uma visão mais completa do produto e fortaleceu bastante minhas habilidades como desenvolvedora.
+
+---
+
+###  Hard Skills Desenvolvidas
+
+- FastApi - Consigo realizar com autonomia
+- Spring Boot - Consigo realizar com autonomia
+- Java - Consigo realizar com autonomia
+- Python - Consigo realizar com autonomia
+- Flutter - Consigo realizar com autonomia
+- PostgresSql - Consigo realizar com autonomia
+
+---
+
+###  Soft Skills Desenvolvidas
+Essa atuação me permitiu desenvolver várias soft skills importantes para o dia a dia como desenvolvedora. Aprimorei minha capacidade de comunicação, já que precisei alinhar constantemente com o time de mobile e backend para garantir integrações fluidas. Também fortalecei meu pensamento crítico e minha habilidade de resolver problemas, lidando com bugs, ajustes e desafios técnicos de forma ágil. A colaboração foi essencial, pois trabalhei lado a lado com diferentes áreas, aprendendo a ouvir, negociar soluções e apoiar o time quando necessário. Além disso, evoluí na organização e no gerenciamento de prioridades, equilibrando múltiplas tasks e garantindo entregas consistentes. Todo esse contexto também me ajudou a ganhar mais autonomia, confiança e visão de produto — entendendo não só o código, mas o impacto real das funcionalidades.
+
