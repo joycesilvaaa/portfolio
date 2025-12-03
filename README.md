@@ -191,7 +191,7 @@ Durante o projeto, desenvolvi habilidades como colaboração em equipe, a gerenc
 Houve uma reorganização dos grupos na sala, e com essa mudança, a equipe da qual passei a fazer parte recebeu novos membros. Essa transição me permitiu aprimorar ainda mais minhas habilidades de integração e acolhimento, fortalecendo o trabalho coletivo.
 
 
-### 4º Semestre • 2/2024 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.1)
+### 4º Semestre • 1/2025 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.1)
 
 
 <p align="center">
@@ -237,7 +237,7 @@ Durante essa atuação, desenvolvi diversas soft skills essenciais para a dinâm
 
 
 
-### 5º Semestre • 2/2024 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.2)
+### 5º Semestre • 2/2025 • [Repositório GitHub e Documentação do Projeto](https://github.com/Code-Nine-FTC/API-2025.2)
 
 
 <p align="center">
